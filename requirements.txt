@@ -1,0 +1,9 @@
+sympy
+numpy
+matplotlib
+urx
+jupyter
+pyserial
+opencv-contrib-python
+pyyaml
+PyQt5
